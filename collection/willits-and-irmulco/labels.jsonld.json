@@ -1,5 +1,15 @@
 [
   {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
     "@id": "http://id.worldcat.org/fast/1224918",
     "http://schema.org/name": "California--Willits"
   },
