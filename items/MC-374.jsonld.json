@@ -41,7 +41,6 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1905"
   },
-  "schema:description": "A photo album from California from 1905 with 182 photographs. There are several images from a parade in Willits, California with advertising floats. There are also many images from a cowboy ranch and lumber mill in Irmulco, California along with many family images from this area of California.",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"

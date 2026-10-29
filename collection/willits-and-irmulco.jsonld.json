@@ -38,7 +38,7 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1905"
+    "@value": "2026"
   },
   "schema:description": "A photo album from California from 1905 with 182 photographs. There are several images from a parade in Willits, California with advertising floats. There are also many images from a cowboy ranch and lumber mill in Irmulco, California along with many family images from this area of California.",
   "schema:inLanguage": "en",
@@ -49,13 +49,14 @@
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   },
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:Publisher": "UC Davis Library, Archives and Special Collections",
   "schema:isBasedOn": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8q24795"
   },
   "schema:name": "Willits and Irmulco Photographs",
   "schema:identifier": [
     "ark:/87293/d3vt1h13z",
-    "MC374"
+    "MC-374"
   ],
   "schema:image": {
     "@id": "@base:/thumbnail.jpg"
