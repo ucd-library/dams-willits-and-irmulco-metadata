@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "http://id.worldcat.org/fast/1224918",
+    "http://schema.org/name": "California--Willits"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1692637",
+    "http://schema.org/name": "Northern California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423873",
+    "http://schema.org/name": "Illustrated works"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1089735",
+    "http://schema.org/name": "Ranch life"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1003543",
+    "http://schema.org/name": "Lumber trade"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1052822",
+    "http://schema.org/name": "Parades"
+  }
+]

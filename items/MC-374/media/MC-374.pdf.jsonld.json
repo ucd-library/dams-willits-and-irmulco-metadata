@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "MC-374.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  },
+  "schema:inLanguage": "en",
+  "schema:accessibilityFeature": [
+    "alternativeText",
+    "bookmarks",
+    "taggedPDF"
+  ],
+  "schema:accessibilitySummary": "Tagged album facsimile with embedded Unicode text, language, bookmarks and visually reviewed photograph descriptions. Selected caption OCR and manual transcriptions are supplied. Faint handwriting, OCR proofreading, logical reading order and assistive-technology testing require final review; ADA/PDF-UA conformance is not certified."
+}
