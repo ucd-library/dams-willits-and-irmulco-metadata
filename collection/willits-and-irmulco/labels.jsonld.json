@@ -18,10 +18,6 @@
     "http://schema.org/name": "Northern California"
   },
   {
-    "@id": "http://id.worldcat.org/fast/1423873",
-    "http://schema.org/name": "Illustrated works"
-  },
-  {
     "@id": "http://id.worldcat.org/fast/1089735",
     "http://schema.org/name": "Ranch life"
   },
